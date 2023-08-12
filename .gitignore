@@ -19,6 +19,7 @@ ENV/
 env.bak/
 venv.bak/
 Data/
+Presentation/
 
 # datasets
 *.csv
